@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="main.js"></script>
+    <!-- the title that appears in the tab of the browser -->
+    <title>Beginners Web Dev Template</title>
+  </head>
+  <body>
+    <header>
+      <h1>I'm the title</h1>
+    </header>
+    <main>
+      <h1>Header 1</h1>
+      <h2>Header 2</h2>
+      <h3>Header 3</h3>
+      <h4>Header 4</h4>
+      <h5>Header 5</h5>
+      <h6>Header 6</h6>
+
+      <section>
+        <h2>Section 1</h2>
+        <p>
+          This is a paragraph in section 1.
+          <em>I'm in italics.</em>
+          <strong>I'm in bold.</strong>
+          I will skip a line. <br />
+          <u>I'm underlined.</u>
+        </p>
+      </section>
+
+      <h2>This is an unordered list:</h2>
+      <ul>
+        <li>First</li>
+        <li>Second</li>
+        <li>Third</li>
+      </ul>
+
+      <h2>This is an ordered list:</h2>
+      <ol>
+        <li>First</li>
+        <li>Second</li>
+        <li>Third</li>
+      </ol>
+
+      <h2>This is a table with borders and table headers</h2>
+      <table border='1'>
+        <tr>
+          <th>Number of Dogs</th>
+          <th>Number of Cats</th>
+        </tr>
+        <tr>
+          <td>76 dogs that are very loud</td>
+          <td>17 cats that are really mean</td>
+        </tr>
+      </table>
+
+      <br /><!-- this is a line break -->
+
+      <input type="button" id="button" value="I'm a button that changes colour" onclick="red();" />
+
+      <h2>Inserting an Image:</h2>
+      <img src="https://assets-global.website-files.com/6253f6e60f27498e7d4a1e46/627abab0baed6035bacf1756_How-to-build-the-perfect-full-stack-web-dev-portfolio-1.jpeg" alt="A picture of a girl doing web dev" class="image" />
+
+      <h2>I am a form</h2>
+      <form>
+        <h3>List</h3>
+        <input type='text' list='data-list'>
+        <datalist id='data-list'>
+          <option value='one'></option>
+          <option value='two'></option>
+          <option value='three'></option>
+          <option value='four'></option>
+        </datalist>
+        
+        <h3>Max Range</h3>
+        <input type='range' max='95'><br>
+        Maximum value for the value that can be put in.
+        
+        <h3>Min Range</h3>
+        <input type='range' min='2'><br>
+        Minimum value for the value that can be put in.
+        
+        <h3>Max and Min Ranges</h3>
+        <input type='range' min='2' max='95'><br>
+        Max and Min values in the same range.
+        
+        <h3>Read Only</h3>
+        <input type='text' readonly=''><br>
+        User should not be able to edit the textbox.
+        
+        <h3>Required</h3>
+        <input type='text' required=''><br>
+        For validation purposes, if a field is required or not.
+        
+        <h3>Placeholder</h3>
+        <input type='text' placeholder='Enter text here'><br>
+        Meant to be able to display a hint to the end user what to input.
+      
+        <br /><br />
+        <input type='submit' value='press'>
+      </form>
+
+      <footer>
+        <p>I'm the footer.</p>
+      </footer>
+    </main>
+  </body>
+</html>

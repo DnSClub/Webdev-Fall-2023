@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    color: rgb(65, 110, 214);
+    font-size: 3rem;
+    text-align: center;
+    margin: 2rem;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: palevioletred;
+}
+
+img {
+    width: 50rem;
+    height: auto;
+}
+
+#button {
+    background-color: rgb(109, 139, 210);
+    color: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+    background-color:rgb(109, 139, 210);
+    width: 100%;
+}
