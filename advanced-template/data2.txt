@@ -1,0 +1,20 @@
+Michael Brown,Computer Science,2022-09-01,2026-05-15,3.82
+Jessica White,Biology,2021-08-25,2025-05-20,3.95
+Christopher Turner,Electrical Eng.,2023-01-15,2027-06-01,3.60
+Emily Johnson,Psychology,2020-09-05,2024-05-10,3.75
+Andrew Davis,Business,2021-02-10,2025-05-18,3.88
+Olivia Clark,Mechanical Eng.,2024-03-20,2028-06-05,3.70
+Ethan Baker,Chemistry,2022-07-12,2026-05-22,3.95
+Sophia Adams,English,2023-11-30,2027-12-15,3.50
+Daniel Garcia,Physics,2021-05-08,2025-05-25,3.78
+Lily Moore,Mathematics,2022-12-03,2026-06-01,3.65
+Caleb Wilson,History,2020-08-15,2024-05-12,3.88
+Zoey Hernandez,Civil Eng.,2023-06-22,2027-05-28,3.55
+Aidan Brown,Political Science,2022-01-05,2026-05-30,3.92
+Ava Robinson,Economics,2021-04-18,2025-05-17,3.75
+Jackson White,Sociology,2022-10-10,2026-05-19,3.80
+Zoe Taylor,Environmental Sci.,2023-02-28,2027-06-10,3.68
+Isaac Smith,Aerospace Eng.,2020-12-01,2024-05-08,3.87
+Logan Hill,Nursing,2021-09-15,2025-05-14,3.70
+Chloe Baker,Communications,2024-05-03,2028-06-15,3.82
+Sophie Turner,Graphic Design,2022-03-10,2026-05-24,3.60
